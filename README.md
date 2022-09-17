@@ -1,4 +1,5 @@
 # Github-in-hand-practice
+added my repositry
 Hello ! This is Alok Singh
 vyankatesh patil
 # Nikita 
